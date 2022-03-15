@@ -1,9 +1,9 @@
-### Hi there 👋
+### Howdy, welcome to my GitHub
 
 <p align="center">
-  <strong><a href="https://twitter.com/akitafuki">Twitter</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/akitafuki">LinkedIn</a></strong> |
-  <strong><a href="https://www.twitch.tv/akitafuki">Twitch</a></strong>
+  ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fakitafuki) 
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  ![Twitch](https://img.shields.io/twitch/status/akitafuki?style=social)
 </p>
 
 <!--
