@@ -1,5 +1,14 @@
-### Hi there 👋
+## Welcome to my profile
+### About me
+  
+ - Name: Jimmie Maggard
+ - Pronouns: He/They
+ - Hobbies:
+   - Playing games poorly on Twitch
+   - Anime enthusiast
+   - Eternal procrastinator
 
+### Social
 <p align="center">
   <strong><a href="https://twitter.com/akitafuki">Twitter</a></strong> |
   <strong><a href="https://www.linkedin.com/in/akitafuki">LinkedIn</a></strong> |
@@ -7,8 +16,6 @@
 </p>
 
 <!--
-**akitafuki/akitafuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
