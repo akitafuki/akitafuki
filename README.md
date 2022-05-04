@@ -1,14 +1,19 @@
-### Howdy, welcome to my GitHub
+## Welcome to my profile
+### About me
+  
+ - Name: Jimmie Maggard
+ - Pronouns: He/They
+ - Hobbies:
+   - Playing games poorly on Twitch
+   - Anime enthusiast
+   - Eternal procrastinator
 
-<p align="center">
-  ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fakitafuki) 
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  ![Twitch](https://img.shields.io/twitch/status/akitafuki?style=social)
-</p>
+### Social
+- ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fakitafuki) 
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- ![Twitch](https://img.shields.io/twitch/status/akitafuki?style=social)
 
 <!--
-**akitafuki/akitafuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
