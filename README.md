@@ -9,11 +9,9 @@
    - Eternal procrastinator
 
 ### Social
-<p align="center">
-  <strong><a href="https://twitter.com/akitafuki">Twitter</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/akitafuki">LinkedIn</a></strong> |
-  <strong><a href="https://www.twitch.tv/akitafuki">Twitch</a></strong>
-</p>
+- <a href="https://twitter.com/akitafuki">Twitter</a>
+- <a href="https://www.linkedin.com/in/akitafuki">LinkedIn</a>
+- <a href="https://www.twitch.tv/akitafuki">Twitch</a>
 
 <!--
 Here are some ideas to get you started:
