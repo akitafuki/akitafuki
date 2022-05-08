@@ -13,6 +13,12 @@
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - ![Twitch](https://img.shields.io/twitch/status/akitafuki?style=social)
 
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+     <img  src="https://github-readme-stats.vercel.app/api?username=akitafuki&show_icons=true&theme=radical"/>
+  </a>
+</p>
+
 <!--
 Here are some ideas to get you started:
 
