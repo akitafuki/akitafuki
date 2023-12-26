@@ -7,11 +7,14 @@ You can probably find me live on my Twitch in the evening playing some games bad
 I am motivated by my curiosity for new shiny things and my desire to know how things work. I prefer some loose structure, and have a tendency to make lists for myself (Trello). I may seem like a grouch if I am in the middle of something, but leave me a message and I will get back to you.
 
 ## Currently working on
-- Getting my resume site up and running.
-- Re-architecting my humble bundle lambda project that I am learning Go on. 
+- Wrapping up my humble bundle project
+- Learning how to set up vanilla Kubernetes cluster
+
+## Recently completed
+- Resume site is up and running
 
 ## Currently learning
-- Working on AWS Solutions Architect - Associate
+- Working on a Masterclass for Adobe Creative Cloud. Focusing on Photoshop and InDesign
 - Go language
 
 ## How to find me
