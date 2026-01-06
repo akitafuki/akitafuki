@@ -7,15 +7,16 @@ You can probably find me live on my Twitch in the evening playing some games bad
 I am motivated by my curiosity for new shiny things and my desire to know how things work. I prefer some loose structure, and have a tendency to make lists for myself (Trello). I may seem like a grouch if I am in the middle of something, but leave me a message and I will get back to you.
 
 ## Currently working on
-- Wrapping up my humble bundle project
-- Learning how to set up vanilla Kubernetes cluster
+- Putting the finishing touches on my ![FFXIV Mentor Bingo](https://www.mentorbingo.com) site
 
 ## Recently completed
-- Resume site is up and running
+- Resume site refreshed
+- Dev Portfolio up and running
 
 ## Currently learning
-- Working on a Masterclass for Adobe Creative Cloud. Focusing on Photoshop and InDesign
-- Go language
+- Wrapping my brain around React
+- Having fun with Vite and Astro
+- Learning more about the AI craze.
 
 ## How to find me
 - ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fakitafuki) 
