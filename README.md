@@ -35,12 +35,13 @@ You can probably find me live on my [Twitch](https://twitch.tv/akitafuki) in the
 - ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fakitafuki) 
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - ![Twitch](https://img.shields.io/twitch/status/akitafuki?style=social)
+- ![Bluesky](https://img.shields.io/badge/Bluesky-0086DC?style=social&logo=bluesky&logoColor=white)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
      <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akitafuki&show_icons=true&theme=radical"/>
   </a>
   <a href="https://github.com/vn7n299/github-readme-streak-stats">
-     <img alt="My GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akitafuki&theme=radical"/>
+     <img alt="My GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=</strong>akitafuki&theme=radical"/>
   </a>
 </p>
