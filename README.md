@@ -27,11 +27,11 @@ You can probably find me live on my [Twitch](https://twitch.tv/akitafuki) in the
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Astro-FF0055?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https>llo-LLM-blue?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-blue?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ## 🖇️ How to find me
-- ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fakitafuki) 
+- ![Twitter](https://img.shields.io/twitter/url?style=#social&url=https%3A%2F%2Ftwitter.com%2Fakitafuki) 
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - ![Twitch](https://img.shields.io/twitch/status/akitafuki?style=social)
 
