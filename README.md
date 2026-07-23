@@ -11,7 +11,7 @@ Hi, I'm Jimmie. I've been taking a break from the tech industry to recuperate fr
 You can probably find me live on my [Twitch](https://twitch.tv/akitafuki) in the evening, playing some games (usually badly).
 
 ## 🛠️ Currently working on
-- **Aoi Sora Project:** Currently in the final stages of dogfooding and refining the experience.
+- **Aoi Sora Project:** Currently in the final stages of dogfood_ing and refining the experience.
 - **Twitch Stream Overhaul:** Bringing my new Twitch carousel project to life within OBS to level up the stream visuals.
 
 ## ✅ Recently completed
@@ -25,13 +25,14 @@ You can probably find me live on my [Twitch](https://twitch.tv/akitafuki) in the
 ## 🚀 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Astro-FF0055?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF0055?style=for-the_badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM-blue?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ## 🖇️ How to find me
-- ![Twitter](https://img.shields.io/twitter/url?style=#social&url=https%3A%2F%2Ftwitter.com%2Fakitafuki) 
+- ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fakitafuki) 
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - ![Twitch](https://img.shields.io/twitch/status/akitafuki?style=social)
 
