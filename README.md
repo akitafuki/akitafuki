@@ -38,9 +38,6 @@ You can probably find me live on my [Twitch](https://twitch.tv/akitafuki) in the
 - ![Bluesky](https://img.shields.io/badge/Bluesky-0086DC?style=social&url=https%3A%2F%2Fbsky.app%2Fprofile%2Fakitafuki.com&logo=bluesky&logoColor=white)
 
 <p align="center">
-  <a href="https://github.com/anuraghazrad/github-readme-stats"> 
-     <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akitafuki&show_icons=true&theme=radical"/>
-  </a>
   <a href="https://github.com/vn7n299/github-readme-streak-stats">
      <img alt="My GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akitafuki&theme=radical"/>
   </a>
